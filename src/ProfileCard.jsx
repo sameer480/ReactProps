@@ -9,3 +9,4 @@ const ProfileUser = ({ name, age }) => {
 };
 
 export default ProfileUser;
+/**Write a functional component UserProfile that accepts a user prop (object with info containing name and email, and address containing city). Use destructuring to extract name, email, and city and render them. Use the component with a nested user object. */
